@@ -15,7 +15,9 @@ public class Bebida {
     private double cantidad;
     private double precio;
     private String marca;
-     
+    
+    
+     //constructor
     public Bebida(double cantidad, double precio, String marca){
          
         this.id=idActual++;
